@@ -1,0 +1,14 @@
+# Compiled C/C++ artifacts
+*.o
+*.out
+*.exe
+a.out
+STL
+patterns/pattern1
+patterns/pattern2
+patterns/pattern3
+
+# Local editor and runtime files
+.vscode/
+.DS_Store
+output.txt
